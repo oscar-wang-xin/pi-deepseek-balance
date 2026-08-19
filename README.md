@@ -29,7 +29,7 @@ Pi 扩展：查询 **DeepSeek 账户余额** 与 **API 花费**，并在会话�
 
 ```json
 {
-  "packages": ["git:github.com/<你的用户名>/pi-deepseek-balance"]
+  "packages": ["git:github.com/oscar-wang-xin/pi-deepseek-balance"]
 }
 ```
 
