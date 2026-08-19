@@ -1,0 +1,30 @@
+{
+  "name": "pi-deepseek-balance",
+  "version": "1.0.0",
+  "description": "Pi 扩展：查询 DeepSeek 账户余额与 API 花费，并在会话底部实时显示（仅配置了 DeepSeek key 时显示）",
+  "keywords": [
+    "pi",
+    "pi-extension",
+    "deepseek",
+    "balance",
+    "usage",
+    "cost"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "deepseek-balance.ts"
+  ],
+  "pi": {
+    "extensions": [
+      "deepseek-balance.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": ">=0.84.0",
+    "typebox": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  }
+}
