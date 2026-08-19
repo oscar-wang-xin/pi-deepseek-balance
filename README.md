@@ -1,5 +1,7 @@
 # pi-deepseek-balance
 
+中文 | [English](README.en.md)
+
 Pi 扩展：查询 **DeepSeek 账户余额** 与 **API 花费**，并在会话底部（footer）实时显示。
 
 ## 功能
