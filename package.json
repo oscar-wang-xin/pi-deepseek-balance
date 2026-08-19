@@ -11,6 +11,15 @@
     "cost"
   ],
   "license": "MIT",
+  "author": "oscar-wang-xin",
+  "homepage": "https://github.com/oscar-wang-xin/pi-deepseek-balance#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar-wang-xin/pi-deepseek-balance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscar-wang-xin/pi-deepseek-balance/issues"
+  },
   "type": "module",
   "files": [
     "deepseek-balance.ts"
